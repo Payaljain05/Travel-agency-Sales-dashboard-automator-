@@ -1,4 +1,4 @@
-# Travel Agency Sales Dashboard Automator
+# Sales-Automation-VBA
 
 An Excel VBA-based automation tool that streamlines travel sales data 
 cleaning, report generation, and destination-wise summarization — 
